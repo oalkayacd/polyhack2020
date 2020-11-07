@@ -1,4 +1,4 @@
-bpFrom,bpTo,bpFromLat,bpFromLng,bpToLat,bpToLat,startDate,endDate
+bpFrom,bpTo,bpFromLat,geoshape
 BR,STDG,"{'type': 'FeatureCollection', 'features': [{'type': 'Feature', 'properties': {'vendor': 'A', 'vol': 20}, 'geometry': {'type': 'LineString', 'coordinates': [['46.3195659116', ' 8.09349478399', 0, 1672527600.0], ['46.2723377046', ' 8.09349478399', 0, 1676156400.0]]}}]}"
 KLW,MELH,"{'type': 'FeatureCollection', 'features': [{'type': 'Feature', 'properties': {'vendor': 'A', 'vol': 20}, 'geometry': {'type': 'LineString', 'coordinates': [['47.4352897624', ' 8.27636329083', 0, 1673046000.0], ['47.4280750785', ' 8.27636329083', 0, 1691532000.0]]}}]}"
 ZSTH,ZTB,"{'type': 'FeatureCollection', 'features': [{'type': 'Feature', 'properties': {'vendor': 'A', 'vol': 20}, 'geometry': {'type': 'LineString', 'coordinates': [['47.3666097487', ' 8.56138988846', 0, 1736118000.0], ['47.3501246373', ' 8.56138988846', 0, 1744236000.0]]}}]}"
