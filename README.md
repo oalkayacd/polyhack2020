@@ -1,5 +1,6 @@
 # polyhack2020
-# https://discord.gg/fVFfHJkD
+# The following two html files are used to view the map:
+# polyhack2020/KeplerMapSBB/map_read_only.html (read-only)
+# polyhack2020/KeplerMapSBB/map_w_interaction.html (with editing permissions)
 
-Zugzahlen.csv can be directly loaded into kepler.gl.
-It shows the lines and also give some other information on the lines.
+
