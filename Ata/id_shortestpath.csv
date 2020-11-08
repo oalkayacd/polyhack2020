@@ -1,0 +1,446 @@
+,Paths
+0,"['PUI', 'MRL', 'PAL']"
+3,"['PU', 'TAPI', 'LTY', 'VTE', 'CU']"
+4,"['MX', 'TER']"
+5,"['VIL', 'VEY', 'TER', 'MX']"
+6,"['BR', 'BRTU', 'STDG']"
+7,['CHV']
+8,['LHE']
+10,['ZSEB']
+11,['ZUE']
+13,['KLW']
+14,['SCHL']
+15,['SCHL']
+16,"['KLW', 'LANG', 'MELH']"
+17,['ZWOL']
+18,['TW']
+20,"['ZSTH', 'ZTB']"
+21,"['ZSTH', 'ZTB']"
+22,"['KUES', 'ERLB', 'WIN', 'HERL', 'FEWA', 'ML', 'UET', 'MAEN', 'STAE', 'UER', 'FB', 'KPT', 'RWNO', 'RW']"
+23,['ERLB']
+24,"['NID', 'LGB', 'LU', 'DSB', 'RUET', 'LINB', 'LIN']"
+25,['GLB']
+26,['HRD']
+27,['FMS']
+28,"['ZUE', 'ZLST', 'ZAU', 'ZKOL', 'NIDB', 'TWNO', 'TW', 'ORD', 'HG', 'AU', 'WAE', 'RI', 'HAF', 'BAE', 'FRB', 'PF', 'ALTD', 'LA', 'SIB', 'SCBU', 'RG', 'BIL', 'ZB', 'WN', 'MH', 'TIEF', 'MG', 'UNT', 'MOLS', 'WAL', 'FMS', 'MELS', 'SA', 'BRAG', 'MF', 'ROR', 'LQ', 'ZIZS', 'CH']"
+29,['FMS']
+30,"['OP', 'ZFH']"
+31,"['OP', 'ZFH']"
+32,"['ZFH', 'DORF']"
+33,"['WS', 'DTL', 'HURW', 'HUER']"
+34,['W']
+35,['HUER']
+36,['FF']
+37,['MUEL']
+38,"['SLG', 'BGL', 'WFKV', 'WF']"
+39,"['WGR', 'WHE', 'RAET', 'SCHK', 'SNT', 'EL', 'AD', 'GUN', 'ESL', 'SIR']"
+40,['GSS']
+41,['SGWI']
+42,"['WGR', 'WHE', 'RAET', 'SCHK', 'SNT', 'EL', 'AD', 'GUN', 'ESL', 'SIR', 'WIWE', 'WIGB', 'WIL', 'WILM', 'WILO', 'SCHZ', 'ALG', 'UZW', 'FLA', 'BUDZ', 'GSS', 'SGWI', 'SGBR', 'SGW', 'SGGB', 'SG']"
+43,"['GUN', 'ESL', 'SIR', 'WIWE', 'WIGB', 'WIL', 'WILM', 'WILO', 'SCHZ', 'ALG', 'UZW', 'FLA', 'BUDZ', 'GSS']"
+44,"['GSS', 'GSSO', 'ARN', 'HPT', 'BZS', 'SIT', 'BZN', 'KRA', 'SLG']"
+45,['HGT']
+46,"['WTOE', 'WWUE', 'PFU', 'EMB']"
+47,"['UST', 'AAT']"
+48,['UST']
+49,"['EF', 'IL', 'FETI', 'FET', 'WITZ', 'PFZ', 'KN', 'WZ']"
+50,"['SEU', 'DIH', 'TLH', 'OSS', 'STM', 'EW']"
+51,['FT']
+52,['KR']
+53,['EW']
+54,"['STR', 'EZ']"
+55,['TAEN']
+56,"['SHAU', 'LENG']"
+57,"['UZ', 'KAB']"
+58,['LUET']
+59,"['IM', 'BRM', 'GD', 'STNS', 'STN', 'SCHW', 'BRU']"
+60,['GD']
+61,"['GD', 'STNS', 'STN', 'SCHW']"
+62,['GOE']
+63,['AI']
+64,['FA']
+65,['LAV']
+66,"['GIDI', 'OS', 'CLA', 'CASN', 'CAST']"
+67,"['BEL', 'BELD', 'GIUN', 'GIU']"
+68,"['BEL', 'BELD', 'GIUN', 'GIU']"
+69,"['VEZB', 'LG', 'LGP', 'LGPC', 'SMAC', 'MDE', 'MAR', 'CAP']"
+70,['LG']
+71,['MDE']
+72,"['GREL', 'DUG']"
+73,['TH']
+74,['WBOL']
+75,['BET']
+76,['SEL']
+77,"['LTH', 'LTG', 'LTHW', 'HB']"
+78,['ZOL']
+79,"['LN', 'TSCH', 'WIG', 'ESCH', 'SCHH']"
+80,['LN']
+81,['DAG']
+82,"['ZF', 'BRIT', 'REID', 'DAG', 'NEBN', 'NEB', 'WAU', 'STER', 'SS', 'SSS', 'OBK', 'NO', 'SEM', 'RBG']"
+83,['OBK']
+84,['LZ']
+85,['SAF']
+86,['DK']
+87,['DKRB']
+88,"['RU', 'LB', 'GEXI', 'OTH', 'MAEG', 'GMT', 'MELH', 'LANG', 'KLW']"
+89,"['AA', 'AAGB', 'AAO', 'ROHS', 'RU']"
+90,['OL']
+91,"['GSK', 'RKSW', 'RK', 'RKSO', 'BRGL', 'IM', 'KUE']"
+92,"['BG', 'BGOS', 'TG']"
+93,['TG']
+94,['TG']
+95,['LP']
+97,"['GEAP', 'CHNE']"
+98,['GE']
+99,"['MOR', 'TOL', 'STP']"
+100,['LS']
+101,['ROS']
+102,['FRI']
+103,"['ROC', 'AIG']"
+104,"['ST', 'AIG']"
+105,"['PT', 'DAY']"
+106,['CORN']
+107,"['ZSEB', 'ZAF', 'ZGUB', 'REG', 'BUD', 'BUDI', 'BUHW', 'OFR', 'OFI', 'OF', 'WUER', 'WE']"
+108,"['ZSEB', 'ZAF', 'ZGUB', 'REG', 'BUD', 'BUDI', 'BUHW', 'OFR', 'OFI', 'OF', 'WUER']"
+109,['WUER']
+110,['DT']
+111,['ZAS']
+112,['WE']
+113,"['KLW', 'WUER', 'WE']"
+114,['TW']
+115,"['SIB', 'SCBU']"
+116,['PF']
+117,['ZOER']
+118,"['GLB', 'TALR', 'RUEM', 'OGL', 'NG', 'BUE']"
+119,"['LOT', 'JES', 'JE']"
+120,['BUE']
+121,['RZ']
+122,['UNT']
+123,"['UNT', 'MG', 'TIEF', 'MH']"
+124,['FMS']
+125,['CH']
+126,['ZSTH']
+127,['WS']
+128,['KL']
+129,"['W', 'SCAL', 'OWT', 'OWTO', 'WD', 'RIK', 'ISL', 'FF', 'FEL', 'HM', 'MUEL', 'MAER', 'WF']"
+130,['OWT']
+131,['WF']
+133,"['SLG', 'ERL', 'OA', 'AW', 'RHW', 'RH']"
+134,['WIL']
+135,['WIL']
+136,['SGBR']
+137,['SG']
+138,['SG']
+139,"['W', 'SCAL', 'WGR', 'WHE', 'RAET', 'SCHK', 'SNT', 'EL', 'AD', 'GUN', 'ESL', 'SIR', 'WIWE', 'WIGB', 'WIL', 'WILM', 'WILO', 'SCHZ', 'ALG', 'UZW', 'FLA', 'BUDZ', 'GSS', 'SGWI', 'SGBR', 'SGW', 'SGGB', 'SG']"
+140,['RS']
+141,['SMG']
+142,['WZ']
+143,['OSS']
+144,"['SH', 'FT']"
+145,['EZ']
+146,"['WIL', 'WNOR', 'BRO']"
+147,['KRB']
+148,"['BERG', 'AHAU', 'SHAU']"
+150,['BRU']
+151,['ER']
+152,['ER']
+153,['AP']
+154,['AP']
+155,"['BEL', 'BELD', 'GIUN', 'GIU']"
+156,"['BEL', 'BELD', 'GIUN', 'GIU']"
+157,"['BEL', 'BELD', 'GIUN', 'GIU']"
+158,"['VEZB', 'LG', 'LGP', 'LGPC', 'SMAC', 'MDE', 'MAR', 'CAP']"
+159,"['BAA', 'BAAN', 'BAAL', 'ZG']"
+160,"['RUB', 'MS', 'WCH']"
+161,"['OST', 'GUE', 'GUES', 'RUB']"
+162,"['UTI', 'THAB', 'TH']"
+163,['HAE']
+164,['SW']
+165,['LEN']
+166,"['SO', 'INKV', 'WANZ']"
+167,['LTH']
+168,"['OL', 'RTR', 'RTRH', 'RANS', 'MGT', 'ROG', 'LTH']"
+169,"['LN', 'TSCH', 'WIG', 'ESCH', 'SCHH']"
+170,"['OL', 'ABO']"
+171,['ABO']
+172,['SS']
+173,"['FMUE', 'EBR']"
+174,['OL']
+175,['BS']
+176,"['LB', 'HU']"
+177,['SCOE']
+178,"['DK', 'SCOE', 'SCOO', 'WOES', 'AA']"
+179,"['FMUE', 'GTS', 'LZVH', 'MEGZ', 'MEG', 'MERL', 'KUE', 'IM']"
+180,['IM']
+181,"['LB', 'RU']"
+182,"['AA', 'AAGB', 'AAO', 'ROHS', 'RU']"
+183,['IM']
+184,"['LP', 'RUS', 'SY', 'ZIM', 'VM', 'VMC', 'COI', 'CHNE']"
+185,"['MOR', 'TOL', 'STP']"
+186,"['DEN', 'LONB', 'LTP', 'LTB', 'LTAB', 'LTE', 'RENO', 'REN']"
+187,"['LS', 'PUN', 'CVN']"
+188,"['LS', 'PUN', 'CVN']"
+189,['ROS']
+190,"['MTH', 'GIOV', 'CBY', 'CABV', 'AGIP', 'VIO', 'VOU', 'EVOU', 'BOU']"
+191,['NESE']
+192,"['LIG', 'TWN']"
+193,"['SBL', 'CORN']"
+194,['LHE']
+195,['HGO']
+197,['ZWD']
+198,['DT']
+199,['TW']
+200,"['PF', 'ALTD']"
+201,['ZWIE']
+202,['HG']
+203,"['ZWIE', 'ZEN', 'ZWOL']"
+204,"['PF', 'ALTD', 'LA']"
+205,['ZSTH']
+206,['ZTB']
+207,"['HERL', 'FEWA', 'ML']"
+208,['MAEN']
+209,['UER']
+210,['FB']
+211,"['LU', 'DSB', 'RUET', 'LINB', 'LIN']"
+212,['GLB']
+213,['GLB']
+215,['SH']
+216,['MELS']
+217,['WN']
+218,['LQ']
+219,"['ZSTH', 'ZTB']"
+221,['STET']
+222,['DTL']
+223,['EF']
+224,['EF']
+225,['KE']
+226,['ZWIP']
+227,['ZWIP']
+228,['OP']
+229,['OP']
+230,"['WD', 'RIK', 'ISL']"
+231,['SLG']
+232,['WF']
+233,"['OA', 'AW', 'RHW', 'RH']"
+234,['WGR']
+235,['EL']
+236,['SCHZ']
+237,"['SG', 'SGF', 'SGFN', 'MOER', 'HOT', 'GOL', 'GOLO', 'RSST', 'RS', 'RSGB', 'STA', 'ALRH', 'RCK', 'SMG']"
+238,"['ORT', 'ALT']"
+239,"['TRUE', 'NGR', 'WEI', 'SEV', 'RAEF', 'BU']"
+240,['BU']
+241,"['PFU', 'WWUE']"
+242,['UST']
+243,"['GIB', 'WL']"
+244,['OSS']
+245,['STR']
+246,['EW']
+247,"['RH', 'RHGB', 'RHS', 'RHSE', 'EGN', 'ARBS', 'ARB', 'STCH', 'HN', 'RSHF', 'RS']"
+248,"['BROA', 'BRO', 'WNOR', 'WIL']"
+249,['TOA']
+250,"['KAB', 'WA']"
+251,"['KAB', 'WA']"
+252,"['IM', 'BRM', 'GD', 'STNS', 'STN', 'SCHW', 'BRU']"
+253,"['IM', 'BRM', 'GD']"
+254,['GD']
+255,['SCHW']
+256,"['BRU', 'FRNZ', 'SKN', 'SK', 'GRUO', 'FL', 'AL']"
+257,"['BRU', 'FRNZ', 'SKN', 'SK']"
+258,['ER']
+259,['AS']
+260,['AP']
+261,['GIDI']
+264,"['BEL', 'BELD', 'GIUN', 'GIU']"
+265,"['BEL', 'BELD', 'GIUN', 'GIU']"
+266,['MDE']
+267,['LG']
+268,['CHI']
+269,['BAA']
+270,"['ZG', 'BAAL', 'BAAN', 'BAA']"
+271,"['BAA', 'BAAN', 'BAAL', 'ZG']"
+272,['ZG']
+273,"['ZG', 'ZGPP', 'ZGCA', 'ZGFR', 'ZGO', 'WCHN', 'WCHO', 'WCHW', 'GDMF', 'GD']"
+274,['BN']
+275,"['KZ', 'KZPP', 'FRAE', 'KAL', 'BRG', 'ABE', 'LYGR', 'LY']"
+276,['DN']
+277,['OLH']
+278,['OL']
+279,"['WKD', 'LGUS', 'LGUT', 'AESP', 'WANZ', 'RTR', 'OL', 'ABO']"
+281,"['BN', 'BWYW', 'BWY']"
+282,"['ZAE', 'BOW']"
+283,"['ZF', 'BRIT', 'REID', 'DAG', 'NEBN', 'NEB', 'WAU', 'STER', 'SS', 'SSS', 'OBK', 'NO', 'SEM', 'RBG', 'RBGD', 'HUEB', 'GSAG', 'EBR']"
+284,['BS']
+285,"['ZF', 'KGD', 'WAST', 'SAF']"
+286,"['SUHR', 'OEF']"
+287,['LB']
+288,['SINS']
+289,"['MI', 'BNZ']"
+290,"['MI', 'BNZ']"
+291,['EBI']
+292,['EBI']
+293,['GE']
+294,['MOR']
+295,"['DEN', 'LONB', 'LONA', 'LON', 'STJ', 'MOR']"
+296,"['REN', 'RENO', 'LTE', 'LTAB', 'LTB', 'LTP', 'LONB', 'DEN']"
+297,"['LS', 'PUN', 'CVN']"
+298,['TUR']
+299,"['STDG', 'IS']"
+300,['CORN']
+301,['MOU']
+302,['WE']
+303,['ZUE']
+304,['ZAS']
+305,['WAE']
+306,['PF']
+307,"['RG', 'BIL']"
+308,['RUES']
+309,['ZB']
+310,['STAE']
+311,['UET']
+313,['SH']
+314,['GF']
+315,"['JE', 'FISH', 'NHRH', 'NH']"
+316,"['EGL', 'HUEW']"
+317,['RZ']
+318,"['KE', 'TOEM', 'TOST', 'WFOE', 'WWE', 'W']"
+319,"['OP', 'RT', 'KLB', 'KL']"
+320,['KL']
+321,['OWTU']
+322,['RIK']
+323,['ISL']
+324,['WF']
+325,"['BGL', 'SLG']"
+326,['SLG']
+327,['WGR']
+328,['WGR']
+329,['GSS']
+330,['SGF']
+331,"['RTH', 'ORT']"
+332,['ARN']
+333,"['HET', 'HGT', 'AN', 'MEDE', 'MTL', 'MTLN', 'DA', 'SLF', 'NH', 'SHSU', 'SH']"
+334,['AN']
+335,['BUB']
+336,"['FET', 'WITZ', 'PFZ', 'KN', 'WZ']"
+337,"['SH', 'FT']"
+338,['STR']
+339,['MAM']
+340,['BERG']
+342,"['KAB', 'WA']"
+343,['ER']
+344,['GU']
+345,['GOE']
+346,['SORD']
+347,['LAV']
+348,"['POLN', 'BIA', 'GIDI']"
+349,['CAST']
+350,"['BEL', 'BELD', 'GIUN', 'GIU']"
+351,"['VEZB', 'LG', 'LGP', 'LGPC', 'SMAC', 'MDE', 'MAR', 'CAP']"
+352,['LG']
+353,['LG']
+354,['ZG']
+355,"['GREL', 'DUG']"
+356,"['BNBS', 'BNAS', 'BNSH', 'BNWM', 'JKLM', 'BN']"
+357,"['BNBS', 'NWA', 'OWA', 'THO', 'THOD', 'FLM']"
+358,['LY']
+359,['OST']
+360,"['LGUT', 'LGUS', 'WKD', 'OST']"
+361,"['UTI', 'KI']"
+362,"['ABO', 'OL', 'RTR', 'WANZ', 'AESP', 'LGUT']"
+363,['WAA']
+364,['PIE']
+365,['BIM']
+366,['WBOL']
+367,"['HB', 'RTW']"
+368,"['WH', 'WST', 'SCHA']"
+369,"['ZF', 'ABOS', 'ABO']"
+370,['SS']
+371,['RBG']
+372,"['BS', 'BSNO', 'MU', 'MUOS', 'LSTN', 'LST', 'LSN', 'IT', 'SIS', 'GKD', 'TK', 'HBTN', 'HBTS', 'OLTU', 'OLN', 'OLNO', 'OL']"
+373,['BS']
+374,['BS']
+375,['OEF']
+376,"['KK', 'OEF']"
+377,['OLN']
+378,"['LZVH', 'MEGZ']"
+379,['MERL']
+380,"['LZVH', 'MEGZ', 'MEG', 'MERL', 'KUE', 'IM']"
+381,['HDK']
+382,['WO']
+383,"['FMUE', 'ROTS']"
+385,"['CL', 'VERX', 'MX']"
+386,"['VIL', 'ROC', 'AIG', 'ST', 'BEX', 'PDS', 'SM']"
+387,['RAR']
+388,"['BR', 'BRTU', 'STDG']"
+389,['LHE']
+390,"['BU', 'RAEF', 'SEV', 'WEI', 'NGR', 'TRUE', 'SA', 'MELS', 'FMS', 'WAL', 'MOLS', 'UNT', 'MG', 'TIEF', 'MH', 'WN', 'ZB', 'SCAE', 'BNK', 'UZ', 'SCME', 'BOL', 'BLU', 'RWOS', 'RW', 'RNOS', 'JO', 'RUE', 'BUB', 'WZ', 'KN', 'PFZ', 'WITZ', 'FET', 'FETI', 'IL', 'EF', 'KE', 'TOEM', 'TOST', 'WFOE', 'WWE', 'W']"
+391,['SBG']
+392,['KLW']
+393,['DT']
+394,['ZAS']
+395,"['KLW', 'LANG', 'MELH']"
+396,['SIB']
+397,['STAE']
+398,"['FB', 'KPT', 'RWNO', 'RW']"
+399,['HERL']
+400,"['WIN', 'HERL']"
+401,['UER']
+402,"['RW', 'RWOS', 'BLU']"
+403,"['HRD', 'ZBST', 'ZOER']"
+404,"['BUE', 'GF', 'EGL']"
+405,['BUE']
+406,['NH']
+407,['WN']
+408,"['MOLS', 'UNT']"
+409,['LQ']
+410,"['WWE', 'W']"
+411,['BSD']
+412,['BSD']
+413,['SG']
+414,"['SG', 'SGF', 'SGFN', 'MOER', 'HOT', 'GOL', 'GOLO', 'RSST', 'RS', 'RSGB', 'STA', 'ALRH', 'RCK', 'SMG']"
+415,"['RS', 'RSST']"
+416,['RCK']
+417,"['SEV', 'WEI', 'NGR', 'TRUE']"
+418,['BZN']
+419,"['WZ', 'KN']"
+420,"['SEU', 'DIH']"
+421,"['OWT', 'WWAL', 'REUT', 'SEU', 'DIH', 'TLH', 'OSS', 'STM', 'EW', 'STR']"
+422,"['OWT', 'WWAL', 'REUT', 'SEU']"
+423,"['ARB', 'STCH', 'HN']"
+424,"['WF', 'KHFW', 'KHF']"
+425,"['BRU', 'FRNZ', 'SKN', 'SK', 'GRUO', 'FL', 'AL']"
+426,['FL']
+427,['RYN']
+428,['ER']
+429,['BO']
+430,['BO']
+431,['BO']
+432,"['BEL', 'BELD', 'GIUN', 'GIU']"
+433,"['BEL', 'BELD', 'GIUN', 'GIU']"
+434,['CHI']
+435,['CD']
+436,['CD']
+437,['CHAM']
+438,"['ZG', 'ZGPP', 'ZGCA', 'ZGFR', 'ZGO', 'WCHN', 'WCHO', 'WCHW', 'GDMF', 'GD']"
+439,"['GREL', 'DUG']"
+440,"['OL', 'RTR', 'WANZ', 'AESP', 'MATA', 'SCHB', 'ZOL', 'MUEB', 'SCUE', 'SUB', 'LY', 'BUS', 'STU', 'BGG', 'MAD', 'BI']"
+441,['OB']
+442,['LUT']
+443,"['SO', 'SW']"
+444,"['OEN', 'NB', 'WAA']"
+445,['OLH']
+446,"['OLH', 'OL', 'RTR', 'WANZ', 'INKV', 'SO']"
+447,"['HB', 'LTHW', 'LTG', 'LTH']"
+449,"['LTH', 'LTG', 'LTHW', 'HB']"
+450,"['LN', 'TSCH', 'WIG', 'ESCH', 'SCHH']"
+451,['ZF']
+452,['EBR']
+453,"['LZ', 'LZEF', 'HEIM', 'GTS', 'FMUE', 'EBR']"
+454,"['EBR', 'FMUE']"
+455,['LZ']
+456,['OL']
+457,"['PR', 'FRE']"
+458,"['SAF', 'WAST']"
+459,['OL']
+460,['MEG']
+461,"['OTH', 'HDK', 'DOT', 'DOTU', 'WO', 'WALS', 'BOSP', 'BOS', 'MI', 'BNZ', 'MUEH', 'SINS', 'OI']"
+462,"['RK', 'RKSO', 'BRGL', 'IM']"
